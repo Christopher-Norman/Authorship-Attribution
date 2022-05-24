@@ -1,4 +1,4 @@
-# README explaining the code structure and to run models.
+# README explaining the code structure and how to run models.
 This repository attempts to train models using PyTorch for Authorship Attribution to show a learnable relationship for attributing song lyrics.
 All code was run in a *Google Colab* environment and imports are defined within the notebooks.
 The entire repository can be viewed https://drive.google.com/drive/folders/1SJ2ZPETS3YqeeR37LvadVWLR-qIF0pu9?usp=sharing
